@@ -1,7 +1,7 @@
 # vbachallenge
 I created VBA Script to analyze three years of stock market data. 
-The script loops through worksheets to find the ticker symbol, yearly change in price, percentage change from the bbeginning of year to end of year, and the total stock volume. 
-There is conditional formatting for Yearly Change. If the price stayed the same or increased it is green, but if the price decreased the column is red. 
+The script loops through worksheets to find the ticker symbol, yearly change in price, percentage change from the beginning of year to end of year, and the total stock volume. A tutor helped me create a for loop for the increase, decrease, and total. 
+There is conditional formatting for the Yearly Change column. If the price stayed the same or increased it is green, but if the price decreased the column is red. 
 
 ![image](https://github.com/kelseajade/vbachallenge/assets/152021966/315ee0e7-2307-4ecf-b515-067b5e4d38a8)
 
